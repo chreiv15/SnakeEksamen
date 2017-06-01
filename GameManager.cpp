@@ -27,7 +27,7 @@ void GameManager::play()
 
 	// Load bitmaps
 	SDLBmp backround("Assets/gfx/sdl2.bmp");
-	SDLBmp player("Assets/gfx/sdl_bro.bmp");
+	SDLBmp player("Assets/gfx/4d7.bmp");
 
 	// Calculate render frames per second (second / frames) (60)
 	float render_fps = 1.f / 60.f;
